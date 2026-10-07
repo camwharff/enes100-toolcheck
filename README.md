@@ -18,6 +18,8 @@ The ENES100 labs have 10 student work tables. Each has a tool chest with 10 draw
 
 I built the tool check app as a digital version of that system. It mirrors the physical drawers so lab staff can check a table in seconds, and every check leaves a history in the database.
 
+The tool check system was presented as part of the poster "Strategies for Managing a High-Throughput Academic Makerspace" at ISAM 2025 (International Symposium on Academic Makerspaces). See the [VELMA README](https://github.com/camwharff/enes100-velma#conference-presentation) for the poster.
+
 ## How it works
 
 1. **Pick a table.** Staff select one of the 10 lab tables.
